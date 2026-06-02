@@ -1,0 +1,14 @@
+{
+  "className": "MaterialVariant",
+  "properties": {
+    "AlphaMode": {
+      "Enum": 0
+    },
+    "BaseMaterial": "Rock",
+    "ColorMapContent": "rbxassetid://118039238076169",
+    "MetalnessMapContent": "rbxassetid://125907114184279",
+    "NormalMapContent": "rbxassetid://126874666114529",
+    "RoughnessMapContent": "rbxassetid://133144254703424",
+    "StudsPerTile": 15.722
+  }
+}

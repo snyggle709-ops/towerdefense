@@ -1,0 +1,14 @@
+{
+  "className": "MaterialVariant",
+  "properties": {
+    "AlphaMode": {
+      "Enum": 0
+    },
+    "BaseMaterial": "Asphalt",
+    "ColorMapContent": "rbxassetid://76871425905427",
+    "MetalnessMapContent": "rbxassetid://112054554825056",
+    "NormalMapContent": "rbxassetid://109829781862217",
+    "RoughnessMapContent": "rbxassetid://84617261936779",
+    "StudsPerTile": 13.134
+  }
+}

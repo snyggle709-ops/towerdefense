@@ -1,0 +1,24 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "BackgroundColor3": [1, 1, 1],
+    "BackgroundTransparency": 1,
+    "BorderColor3": [0, 0, 0],
+    "BorderSizePixel": 0,
+    "FontFace": {
+      "family": "rbxassetid://12187371840",
+      "weight": "Regular",
+      "style": "Normal",
+      "cachedFaceId": null
+    },
+    "Position": [[0.5349, 0.0], [0.7918, 0.0]],
+    "Size": [[0.3693, 0.0], [0.1557, 0.0]],
+    "Text": "You made it through the first test. Don't get too comfortable.",
+    "TextColor3": [1, 0.3608, 0.3608],
+    "TextScaled": true,
+    "TextSize": 14,
+    "TextWrapped": true,
+    "Visible": false
+  }
+}

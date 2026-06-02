@@ -1,0 +1,8 @@
+{
+  "className": "Tool",
+  "properties": {
+    "CanBeDropped": false,
+    "Grip": [0, -0.8, 0, 1, 0, 0, 0, 0.9999, -0.0137, 0, 0.0137, 0.9999],
+    "ToolTip": "Cube.002"
+  }
+}

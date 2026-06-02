@@ -1,0 +1,2 @@
+-- Extractor heat billboards are client-owned in StarterPlayerScripts/ExtractorHeatBillboards.client.luau.
+-- Keeping this server script inert prevents a server-side workspace scan every 0.25 seconds.
